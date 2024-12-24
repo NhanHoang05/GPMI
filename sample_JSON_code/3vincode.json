@@ -1,0 +1,14 @@
+{
+    "PartNumber": "PN003",
+    "Name": "Product 3",
+    "Customer": "Customer C",
+    "CustomerCode": "CUSTC003",
+    "QuantityBox": "300",
+    "PoNo": "PO003",
+    "Inspector": "Inspector 3",
+    "ProductionDate": "2024-12-14",
+    "AccountNumber": "ACC003",
+    "ListVincode": [ "VIN001", "VIN002", "VIN003" ],
+    "Product": "D:\\GPMI_Project\\code\\hinh_anh\\suonxe1.jpg",
+    "QRcode": "D:\\GPMI_Project\\code\\hinh_anh\\qrcode2.jpg"
+}

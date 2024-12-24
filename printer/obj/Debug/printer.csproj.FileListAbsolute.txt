@@ -1,0 +1,173 @@
+C:\Users\Lenovo\Desktop\code c#\printer\printer\bin\Debug\printer.exe.config
+C:\Users\Lenovo\Desktop\code c#\printer\printer\bin\Debug\printer.exe
+C:\Users\Lenovo\Desktop\code c#\printer\printer\bin\Debug\printer.pdb
+C:\Users\Lenovo\Desktop\code c#\printer\printer\obj\Debug\printer.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\code c#\printer\printer\obj\Debug\printer.Form1.resources
+C:\Users\Lenovo\Desktop\code c#\printer\printer\obj\Debug\printer.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\code c#\printer\printer\obj\Debug\printer.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\code c#\printer\printer\obj\Debug\printer.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\code c#\printer\printer\obj\Debug\printer.csproj.Up2Date
+C:\Users\Lenovo\Desktop\code c#\printer\printer\obj\Debug\printer.exe
+C:\Users\Lenovo\Desktop\code c#\printer\printer\obj\Debug\printer.pdb
+C:\Users\Lenovo\Desktop\code c#\printer\printer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenovo\Desktop\code c#\printer\printer\bin\Debug\Newtonsoft.Json.xml
+D:\GPMI_Project\code\code_printer_main\printer\bin\Debug\printer.exe.config
+D:\GPMI_Project\code\code_printer_main\printer\bin\Debug\printer.exe
+D:\GPMI_Project\code\code_printer_main\printer\bin\Debug\printer.pdb
+D:\GPMI_Project\code\code_printer_main\printer\bin\Debug\Newtonsoft.Json.dll
+D:\GPMI_Project\code\code_printer_main\printer\bin\Debug\Newtonsoft.Json.xml
+D:\GPMI_Project\code\code_printer_main\printer\obj\Debug\printer.csproj.AssemblyReference.cache
+D:\GPMI_Project\code\code_printer_main\printer\obj\Debug\printer.Form1.resources
+D:\GPMI_Project\code\code_printer_main\printer\obj\Debug\printer.Properties.Resources.resources
+D:\GPMI_Project\code\code_printer_main\printer\obj\Debug\printer.csproj.GenerateResource.cache
+D:\GPMI_Project\code\code_printer_main\printer\obj\Debug\printer.csproj.CoreCompileInputs.cache
+D:\GPMI_Project\code\code_printer_main\printer\obj\Debug\printer.csproj.Up2Date
+D:\GPMI_Project\code\code_printer_main\printer\obj\Debug\printer.exe
+D:\GPMI_Project\code\code_printer_main\printer\obj\Debug\printer.pdb
+C:\Users\Lenovo\Desktop\code_printer_main\printer\obj\Debug\printer.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\code_printer_main\printer\obj\Debug\printer.Form1.resources
+C:\Users\Lenovo\Desktop\code_printer_main\printer\obj\Debug\printer.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\code_printer_main\printer\obj\Debug\printer.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\code_printer_main\printer\obj\Debug\printer.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\code_printer_main\printer\obj\Debug\printer.exe
+C:\Users\Lenovo\Desktop\code_printer_main\printer\obj\Debug\printer.pdb
+C:\Users\Lenovo\Desktop\code_printer_main\printer\bin\Debug\printer.exe.config
+C:\Users\Lenovo\Desktop\code_printer_main\printer\bin\Debug\printer.exe
+C:\Users\Lenovo\Desktop\code_printer_main\printer\bin\Debug\printer.pdb
+C:\Users\Lenovo\Desktop\code_printer_main\printer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenovo\Desktop\code_printer_main\printer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lenovo\Desktop\code_printer_main\printer\obj\Debug\printer.csproj.Up2Date
+C:\Users\Lenovo\Desktop\new_code\printer\bin\Debug\printer.exe.config
+C:\Users\Lenovo\Desktop\new_code\printer\bin\Debug\printer.exe
+C:\Users\Lenovo\Desktop\new_code\printer\bin\Debug\printer.pdb
+C:\Users\Lenovo\Desktop\new_code\printer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenovo\Desktop\new_code\printer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lenovo\Desktop\new_code\printer\obj\Debug\printer.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\new_code\printer\obj\Debug\printer.Form1.resources
+C:\Users\Lenovo\Desktop\new_code\printer\obj\Debug\printer.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\new_code\printer\obj\Debug\printer.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\new_code\printer\obj\Debug\printer.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\new_code\printer\obj\Debug\printer.csproj.Up2Date
+C:\Users\Lenovo\Desktop\new_code\printer\obj\Debug\printer.exe
+C:\Users\Lenovo\Desktop\new_code\printer\obj\Debug\printer.pdb
+C:\Users\Lenovo\Desktop\new_code - Copy\printer\bin\Debug\printer.exe.config
+C:\Users\Lenovo\Desktop\new_code - Copy\printer\bin\Debug\printer.exe
+C:\Users\Lenovo\Desktop\new_code - Copy\printer\bin\Debug\printer.pdb
+C:\Users\Lenovo\Desktop\new_code - Copy\printer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenovo\Desktop\new_code - Copy\printer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lenovo\Desktop\new_code - Copy\printer\obj\Debug\printer.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\new_code - Copy\printer\obj\Debug\printer.Form1.resources
+C:\Users\Lenovo\Desktop\new_code - Copy\printer\obj\Debug\printer.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\new_code - Copy\printer\obj\Debug\printer.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\new_code - Copy\printer\obj\Debug\printer.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\new_code - Copy\printer\obj\Debug\printer.csproj.Up2Date
+C:\Users\Lenovo\Desktop\new_code - Copy\printer\obj\Debug\printer.exe
+C:\Users\Lenovo\Desktop\new_code - Copy\printer\obj\Debug\printer.pdb
+C:\Users\Lenovo\Desktop\new_code\printer\bin\Debug\MLPreviewComponent.dll
+C:\Users\Lenovo\Desktop\new_code\printer\bin\Debug\MLPreviewComponent.XmlSerializers.dll
+C:\Users\Lenovo\Desktop\code_trial\printer\bin\Debug\printer.exe.config
+C:\Users\Lenovo\Desktop\code_trial\printer\bin\Debug\printer.exe
+C:\Users\Lenovo\Desktop\code_trial\printer\bin\Debug\printer.pdb
+C:\Users\Lenovo\Desktop\code_trial\printer\bin\Debug\MLPreviewComponent.dll
+C:\Users\Lenovo\Desktop\code_trial\printer\bin\Debug\MLPreviewComponent.XmlSerializers.dll
+C:\Users\Lenovo\Desktop\code_trial\printer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenovo\Desktop\code_trial\printer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lenovo\Desktop\code_trial\printer\obj\Debug\printer.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\code_trial\printer\obj\Debug\printer.Form1.resources
+C:\Users\Lenovo\Desktop\code_trial\printer\obj\Debug\printer.Form2.resources
+C:\Users\Lenovo\Desktop\code_trial\printer\obj\Debug\printer.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\code_trial\printer\obj\Debug\printer.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\code_trial\printer\obj\Debug\printer.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\code_trial\printer\obj\Debug\printer.csproj.Up2Date
+C:\Users\Lenovo\Desktop\code_trial\printer\obj\Debug\printer.exe
+C:\Users\Lenovo\Desktop\code_trial\printer\obj\Debug\printer.pdb
+C:\Users\Lenovo\Desktop\code_gan_hoan_thien\printer\bin\Debug\printer.exe.config
+C:\Users\Lenovo\Desktop\code_gan_hoan_thien\printer\bin\Debug\printer.exe
+C:\Users\Lenovo\Desktop\code_gan_hoan_thien\printer\bin\Debug\printer.pdb
+C:\Users\Lenovo\Desktop\code_gan_hoan_thien\printer\bin\Debug\MLPreviewComponent.dll
+C:\Users\Lenovo\Desktop\code_gan_hoan_thien\printer\bin\Debug\MLPreviewComponent.XmlSerializers.dll
+C:\Users\Lenovo\Desktop\code_gan_hoan_thien\printer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenovo\Desktop\code_gan_hoan_thien\printer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lenovo\Desktop\code_gan_hoan_thien\printer\obj\Debug\printer.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\code_gan_hoan_thien\printer\obj\Debug\printer.Form1.resources
+C:\Users\Lenovo\Desktop\code_gan_hoan_thien\printer\obj\Debug\printer.Form2.resources
+C:\Users\Lenovo\Desktop\code_gan_hoan_thien\printer\obj\Debug\printer.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\code_gan_hoan_thien\printer\obj\Debug\printer.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\code_gan_hoan_thien\printer\obj\Debug\printer.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\code_gan_hoan_thien\printer\obj\Debug\printer.csproj.Up2Date
+C:\Users\Lenovo\Desktop\code_gan_hoan_thien\printer\obj\Debug\printer.exe
+C:\Users\Lenovo\Desktop\code_gan_hoan_thien\printer\obj\Debug\printer.pdb
+C:\Users\Lenovo\Desktop\code_gan_hoan_thien - Copy\printer\obj\Debug\printer.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\code_gan_hoan_thien - Copy\printer\obj\Debug\printer.Form1.resources
+C:\Users\Lenovo\Desktop\code_gan_hoan_thien - Copy\printer\obj\Debug\printer.Form2.resources
+C:\Users\Lenovo\Desktop\code_gan_hoan_thien - Copy\printer\obj\Debug\printer.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\code_gan_hoan_thien - Copy\printer\obj\Debug\printer.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\code_gan_hoan_thien - Copy\printer\obj\Debug\printer.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\code_gan_hoan_thien - Copy\printer\obj\Debug\printer.exe
+C:\Users\Lenovo\Desktop\code_gan_hoan_thien - Copy\printer\obj\Debug\printer.pdb
+C:\Users\Lenovo\Desktop\code_gan_hoan_thien - Copy\printer\bin\Debug\printer.exe.config
+C:\Users\Lenovo\Desktop\code_gan_hoan_thien - Copy\printer\bin\Debug\printer.exe
+C:\Users\Lenovo\Desktop\code_gan_hoan_thien - Copy\printer\bin\Debug\printer.pdb
+C:\Users\Lenovo\Desktop\code_gan_hoan_thien - Copy\printer\bin\Debug\MLPreviewComponent.dll
+C:\Users\Lenovo\Desktop\code_gan_hoan_thien - Copy\printer\bin\Debug\MLPreviewComponent.XmlSerializers.dll
+C:\Users\Lenovo\Desktop\code_gan_hoan_thien - Copy\printer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenovo\Desktop\code_gan_hoan_thien - Copy\printer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lenovo\Desktop\code_gan_hoan_thien - Copy\printer\obj\Debug\printer.csproj.Up2Date
+C:\Users\Lenovo\Desktop\code_hoan_thien\printer\bin\Debug\printer.exe.config
+C:\Users\Lenovo\Desktop\code_hoan_thien\printer\bin\Debug\printer.exe
+C:\Users\Lenovo\Desktop\code_hoan_thien\printer\bin\Debug\printer.pdb
+C:\Users\Lenovo\Desktop\code_hoan_thien\printer\bin\Debug\MLPreviewComponent.dll
+C:\Users\Lenovo\Desktop\code_hoan_thien\printer\bin\Debug\MLPreviewComponent.XmlSerializers.dll
+C:\Users\Lenovo\Desktop\code_hoan_thien\printer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenovo\Desktop\code_hoan_thien\printer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lenovo\Desktop\code_hoan_thien\printer\obj\Debug\printer.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\code_hoan_thien\printer\obj\Debug\printer.Form1.resources
+C:\Users\Lenovo\Desktop\code_hoan_thien\printer\obj\Debug\printer.Form2.resources
+C:\Users\Lenovo\Desktop\code_hoan_thien\printer\obj\Debug\printer.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\code_hoan_thien\printer\obj\Debug\printer.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\code_hoan_thien\printer\obj\Debug\printer.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\code_hoan_thien\printer\obj\Debug\printer.csproj.Up2Date
+C:\Users\Lenovo\Desktop\code_hoan_thien\printer\obj\Debug\printer.exe
+C:\Users\Lenovo\Desktop\code_hoan_thien\printer\obj\Debug\printer.pdb
+C:\Users\Lenovo\Desktop\code_hoan_thien - Copy\printer\bin\Debug\printer.exe.config
+C:\Users\Lenovo\Desktop\code_hoan_thien - Copy\printer\bin\Debug\printer.exe
+C:\Users\Lenovo\Desktop\code_hoan_thien - Copy\printer\bin\Debug\printer.pdb
+C:\Users\Lenovo\Desktop\code_hoan_thien - Copy\printer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenovo\Desktop\code_hoan_thien - Copy\printer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lenovo\Desktop\code_hoan_thien - Copy\printer\obj\Debug\printer.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\code_hoan_thien - Copy\printer\obj\Debug\printer.Form1.resources
+C:\Users\Lenovo\Desktop\code_hoan_thien - Copy\printer\obj\Debug\printer.Form2.resources
+C:\Users\Lenovo\Desktop\code_hoan_thien - Copy\printer\obj\Debug\printer.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\code_hoan_thien - Copy\printer\obj\Debug\printer.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\code_hoan_thien - Copy\printer\obj\Debug\printer.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\code_hoan_thien - Copy\printer\obj\Debug\printer.csproj.Up2Date
+C:\Users\Lenovo\Desktop\code_hoan_thien - Copy\printer\obj\Debug\printer.exe
+C:\Users\Lenovo\Desktop\code_hoan_thien - Copy\printer\obj\Debug\printer.pdb
+C:\Users\Lenovo\Desktop\code_hoan_thien - Copy - Copy\printer\obj\Debug\printer.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\code_hoan_thien - Copy - Copy\printer\obj\Debug\printer.Form1.resources
+C:\Users\Lenovo\Desktop\code_hoan_thien - Copy - Copy\printer\obj\Debug\printer.Form2.resources
+C:\Users\Lenovo\Desktop\code_hoan_thien - Copy - Copy\printer\obj\Debug\printer.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\code_hoan_thien - Copy - Copy\printer\obj\Debug\printer.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\code_hoan_thien - Copy - Copy\printer\obj\Debug\printer.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\code_hoan_thien - Copy - Copy\printer\obj\Debug\printer.exe
+C:\Users\Lenovo\Desktop\code_hoan_thien - Copy - Copy\printer\obj\Debug\printer.pdb
+C:\Users\Lenovo\Desktop\code_hoan_thien - Copy - Copy\printer\bin\Debug\printer.exe.config
+C:\Users\Lenovo\Desktop\code_hoan_thien - Copy - Copy\printer\bin\Debug\printer.exe
+C:\Users\Lenovo\Desktop\code_hoan_thien - Copy - Copy\printer\bin\Debug\printer.pdb
+C:\Users\Lenovo\Desktop\code_hoan_thien - Copy - Copy\printer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenovo\Desktop\code_hoan_thien - Copy - Copy\printer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lenovo\Desktop\code_hoan_thien - Copy - Copy\printer\obj\Debug\printer.csproj.Up2Date
+C:\Users\DELL\Desktop\code_hoan_thien - Copy - Copy\printer\bin\Debug\printer.exe.config
+C:\Users\DELL\Desktop\code_hoan_thien - Copy - Copy\printer\bin\Debug\printer.exe
+C:\Users\DELL\Desktop\code_hoan_thien - Copy - Copy\printer\bin\Debug\printer.pdb
+C:\Users\DELL\Desktop\code_hoan_thien - Copy - Copy\printer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\code_hoan_thien - Copy - Copy\printer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DELL\Desktop\code_hoan_thien - Copy - Copy\printer\obj\Debug\printer.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\code_hoan_thien - Copy - Copy\printer\obj\Debug\printer.Form1.resources
+C:\Users\DELL\Desktop\code_hoan_thien - Copy - Copy\printer\obj\Debug\printer.Form2.resources
+C:\Users\DELL\Desktop\code_hoan_thien - Copy - Copy\printer\obj\Debug\printer.Properties.Resources.resources
+C:\Users\DELL\Desktop\code_hoan_thien - Copy - Copy\printer\obj\Debug\printer.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\code_hoan_thien - Copy - Copy\printer\obj\Debug\printer.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\code_hoan_thien - Copy - Copy\printer\obj\Debug\printer.csproj.CopyComplete
+C:\Users\DELL\Desktop\code_hoan_thien - Copy - Copy\printer\obj\Debug\printer.exe
+C:\Users\DELL\Desktop\code_hoan_thien - Copy - Copy\printer\obj\Debug\printer.pdb

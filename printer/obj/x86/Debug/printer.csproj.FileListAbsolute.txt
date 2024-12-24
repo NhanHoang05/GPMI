@@ -1,0 +1,5 @@
+C:\Users\Lenovo\Desktop\code_trial\printer\obj\x86\Debug\printer.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\code_trial\printer\obj\x86\Debug\printer.Form1.resources
+C:\Users\Lenovo\Desktop\code_trial\printer\obj\x86\Debug\printer.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\code_trial\printer\obj\x86\Debug\printer.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\code_trial\printer\obj\x86\Debug\printer.csproj.CoreCompileInputs.cache
